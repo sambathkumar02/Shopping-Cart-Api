@@ -19,7 +19,7 @@ API for shopping cart operations of users such as create cart,add and delete ite
     prerequisits-Python3,MongoDB
 
 ## Steps to Run
-Create a Virutal Environment and go to the application folder and run 
+Clone the Repo and Create a Virutal Environment and go to the application folder and run 
 
     pip install -r requirements.txt
 After the dependencies were installed , run 
